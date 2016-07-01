@@ -2,10 +2,10 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
-  template: '<h1>My First Angular 2.0 App</h1>'
-});
+  template: '<h1>My First Angular 2.0 App - Devon Gennuso</h1>'
+})
 
-export class AppComponet {}
+export class AppComponent {}
 
 /*
 * Every Angular app has at least one root component,
